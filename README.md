@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Chamod 👋👨🏻‍💻</h2>
 <p>👨🏻‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa </p>
-<h4>📫 Connect with me: </h4>
-<a href="https://www.linkedin.com/in/chamodmadhusanka/"><img align="left" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/linkedin.png" alt="Chamod | LinkedIn" width="21px"/></a>
+<h4>📫 Connect with me: <a href="https://www.linkedin.com/in/chamodmadhusanka/"><img align="left" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/linkedin.png" alt="Chamod | LinkedIn" width="21px"/></a></h4>
+
 
 
 
