@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Chamod 👋👨</h2>
-## Hi, I'm Chamod 👋👨🏻‍💻
-***
+<h2 align="center">Hi, I'm Chamod 👋👨🏻‍💻</h2>
+👨🏻‍🎓 I'm a Computer Science & Engineerng of University of Moratuwa
+
 
 <!--
 **chamodmadhusanka/chamodmadhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
