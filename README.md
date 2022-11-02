@@ -2,6 +2,7 @@
 <p>👨🏻‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa </p>
 <p>📫 How to reach me: <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  </a>
 </p>
+[I'm an inline-style link](https://www.google.com)
 
 
 
