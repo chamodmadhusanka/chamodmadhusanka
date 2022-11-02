@@ -1,5 +1,6 @@
 <h2 align="center">Hi, I'm Chamod 👋👨🏻‍💻</h2>
-👨🏻‍🎓 I'm a Computer Science & Engineerng of University of Moratuwa
+<p> 👨🏻‍🎓 I'm a Computer Science & Engineerng of University of Moratuwa </p>
+
 
 
 <!--
