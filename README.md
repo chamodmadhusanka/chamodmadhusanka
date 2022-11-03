@@ -30,9 +30,8 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
  
-
 </p>
-
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chamodmadhusanka)](https://github.com/chamodmadhusanka)
 
 
 <!--
