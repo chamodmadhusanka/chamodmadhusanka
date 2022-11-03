@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
  
 </p>
+ <div align="center" style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodmadhusanka&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=onedark" />
+</div>
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chamodmadhusanka)](https://github.com/chamodmadhusanka)
 
 
