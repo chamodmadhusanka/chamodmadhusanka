@@ -7,7 +7,7 @@
  <a href="https://twitter.com/_c_h_a_m_o_d"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/twitter.png" alt="Chamod | Twitter" width="21px"/></a>
 <span>
  </h4>
- <h3>🗳 Technical Skills
+ <h3 align="center">🗳 Technical Skills
  </h3>
  <p align="center">
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
