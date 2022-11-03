@@ -34,7 +34,7 @@
 </p>
  <div align="center" style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodmadhusanka&theme=onedark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodmadhusanka&layout=compact&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=onedark" />
 </div>
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chamodmadhusanka)](https://github.com/chamodmadhusanka)
 
