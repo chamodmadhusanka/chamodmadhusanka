@@ -7,6 +7,7 @@
  <a href="https://twitter.com/_c_h_a_m_o_d"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/twitter.png" alt="Chamod | Twitter" width="21px"/></a>
 <span>
  </h4>
+ <hr/>
  <h3 align="center">🗳 Technologies
  </h3>
  <p align="center">
