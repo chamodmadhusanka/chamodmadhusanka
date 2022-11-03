@@ -7,7 +7,7 @@
  <a href="https://twitter.com/_c_h_a_m_o_d"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/twitter.png" alt="Chamod | Twitter" width="21px"/></a>
 <span>
  </h4>
- <h3 align="center">🗳 Technical Skills
+ <h3 align="center">🗳 Technologies
  </h3>
  <p align="center">
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -28,11 +28,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  
-  
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+ 
 
 </p>
 
