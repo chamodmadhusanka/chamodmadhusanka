@@ -1,13 +1,16 @@
 <h2 align="center">Hi, I'm Chamod 👋👨🏻‍💻</h2>
+
 - 👨‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa
 - ⛳️ I’m interested in Cloud Computing, Full stack development, Mobile development, UI/UX design and new technologies
 - 🎭 I would like to draw mascot logos ☃️
-<p>👨🏻‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa </p>
+
+
 <h4 >📫 Connect with me:
 <span align="center">
  <a href="https://www.linkedin.com/in/chamodmadhusanka/"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/linkedin.png" alt="Chamod | LinkedIn" width="21px"/></a>
  <a href="https://www.instagram.com/__c_h_a_m_o_d__m__/"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/instagram.png" alt="Chamod | Instagram" width="21px"/></a>
  <a href="https://twitter.com/_c_h_a_m_o_d"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/twitter.png" alt="Chamod | Twitter" width="21px"/></a>
+ <a href="https://www.facebook.com/profile.php?id=100007579574835"><img align="center" src="https://raw.githubusercontent.com/chamodmadhusanka/chamodmadhusanka/main/images/facebook.png" alt="Chamod | Facebook" width="21px"/></a>
 <span>
  </h4>
  <hr/>
