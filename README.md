@@ -1,4 +1,7 @@
 <h2 align="center">Hi, I'm Chamod 👋👨🏻‍💻</h2>
+- 👨‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa
+- ⛳️ I’m interested in Cloud Computing, Full stack development, Mobile development, UI/UX design and new technologies
+- 🎭 I would like to draw mascot logos ☃️
 <p>👨🏻‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa </p>
 <h4 >📫 Connect with me:
 <span align="center">
@@ -8,7 +11,7 @@
 <span>
  </h4>
  <hr/>
- <h3 align="center">🗳 Technologies
+ <h3 align="center">💼 Technologies
  </h3>
  <p align="center">
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
