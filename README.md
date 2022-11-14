@@ -38,6 +38,14 @@
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
  
 </p>
+ 
+ <div align="center" style="display: flex; flex-direction: row;">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodmadhusanka&layout=compact&title_color=000000&text_color=000000&icon_color=4AB197&bg_color=ffffff" />
+ </div>
+<!--  <a href="https://github.com/chamodmadhusanka">
+  
+</a> -->
+
  <div align="center" style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=merko" />
 </div>
