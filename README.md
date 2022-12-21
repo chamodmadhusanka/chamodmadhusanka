@@ -41,7 +41,7 @@
  
 
  <div align="center" style="display: flex; flex-direction: row;">
- <style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=merko" />
+ <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=merko" />
     
 </div>
 
