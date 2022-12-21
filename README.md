@@ -41,11 +41,10 @@
  
 
  <div align="center" style="display: flex; flex-direction: row;">
- <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=merko" />
+ <img src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=merko" />
     
 </div>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=chamodmadhusanka&show_icons=true&theme=merko" /> -->
 <!--
 **chamodmadhusanka/chamodmadhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
