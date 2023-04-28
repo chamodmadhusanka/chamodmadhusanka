@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Chamod 👋👨🏻‍💻</h2>
 
 - 👨‍🎓 I'm a Computer Science & Engineering undergraduate at the University of Moratuwa
-- ⛳️ I’m interested in Cloud Computing, Full stack development, Mobile development, UI/UX design and new technologies
+- ⛳️ I’m interested in Cloud Computing, DevOps, Full stack development, Mobile development, UI/UX design and new technologies
 - 🎭 I would like to draw mascot logos ☃️
 
 
